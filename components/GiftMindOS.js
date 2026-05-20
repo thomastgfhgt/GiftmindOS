@@ -1,0 +1,1 @@
+import { useState } from "react"; export default function GiftMindOS() { return <div style={{background:"#0A0A0A",color:"white",minHeight:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><h1>GiftMind OS</h1></div>; }
